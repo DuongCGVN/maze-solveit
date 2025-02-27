@@ -5,5 +5,4 @@
 -Space Bar để tạo lại mê cung<br>
 </h2>
 <H1>Demo video</H1>
-https://github.com/user-attachments/assets/19f53942-0627-49c3-8369-e538822d0f5a
-
+![2025-02-27 20-13-11](https://github.com/user-attachments/assets/6a8f50f3-a4b2-4d6f-a7ee-0f4392fb293d)
