@@ -5,4 +5,5 @@
 -Space Bar để tạo lại mê cung<br>
 </h2>
 <H1>Demo video</H1>
-[![Watch the video](https://ik.imagekit.io/DuongCG/project%20github/mecung/2025-02-27%2020-13-11.mp4?updatedAt=1740662254918)]
+https://github.com/user-attachments/assets/19f53942-0627-49c3-8369-e538822d0f5a
+
